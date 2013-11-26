@@ -20,3 +20,7 @@
 ## Python ##
 
 [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
+
+## Git & GitHub ##
+
+[Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)
