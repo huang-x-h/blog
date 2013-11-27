@@ -24,3 +24,5 @@
 ## Git & GitHub ##
 
 [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)
+
+[用GitLab搭建自己的私有GitHub](http://segmentfault.com/a/1190000000345686)
