@@ -25,4 +25,4 @@
 
 [Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)
 
-[用GitLab搭建自己的私有GitHub](http://segmentfault.com/a/1190000000345686)
+[How To Set Up GitLab As Your Very Own Private GitHub Clone](https://www.digitalocean.com/community/articles/how-to-set-up-gitlab-as-your-very-own-private-github-clone) [中文](http://segmentfault.com/a/1190000000345686)
