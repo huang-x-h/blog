@@ -1,6 +1,6 @@
 {
-//  "docs": ["posts"],
-  "template": "slate",
+//  "docs": ["category1": "path1", "category2": "path2"],
+  "template": "default",
 //  "domain_alias": ["your.domain"],
   "perpage": 10,
   "order": "number",
