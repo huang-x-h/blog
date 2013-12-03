@@ -1,5 +1,5 @@
 {
-  "docs": ["posts"],
+//  "docs": ["posts"],
   "template": "slate",
 //  "domain_alias": ["your.domain"],
   "perpage": 10,
