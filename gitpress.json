@@ -1,1 +1,11 @@
-{}
+{
+  "docs": ["posts"],
+  "template": "slate",
+  "domain_alias": ["blog.dormouse.com"],
+  "perpage": 10,
+  "order": "number",
+  "title": "Huang XingHui's Blog",
+  "commet": {"type":"disqus", "short_name":"gitpress"},
+  "friends": [
+  ]
+}
